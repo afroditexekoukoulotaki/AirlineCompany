@@ -1,0 +1,16 @@
+7
+0
+Fred|Lname1|Somewhere 1|6971111111|1|20
+0
+Freddy|Lila|Somewhere 2|6981111112|2|1234
+1
+Stewart|Shatzer|Somewhere 3|6971111113|3|4
+1
+Irene|Wylie|Somewhere 4|6971111114|4|6
+1
+Charlotte|Vigliotti|Somewhere 5|6971111115|5|2
+1
+Veronica|Pool|Somewhere 6|6971111116|6|12
+2
+Stephan|Milewski|Somewhere 7|6971111117|7|Master|14
+
